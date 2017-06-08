@@ -3,8 +3,7 @@
 //  ResearchKitDemo
 //
 //  Created by LION-2 on 6/8/17.
-//  Copyright © 2017 Infosys. All rights reserved.
-//
+
 
 import Foundation
 import ResearchKit
