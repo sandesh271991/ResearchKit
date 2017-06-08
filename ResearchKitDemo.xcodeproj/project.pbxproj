@@ -92,7 +92,7 @@
 		7DB743781EE9DED300B2E22B /* ConsentDocument.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsentDocument.swift; sourceTree = "<group>"; };
 		7DB7437A1EE9E1AC00B2E22B /* ConsentTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsentTask.swift; sourceTree = "<group>"; };
 		7DB7437C1EE9E9C400B2E22B /* SurveyTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SurveyTask.swift; path = ../SurveyTask.swift; sourceTree = "<group>"; };
-		7DB7437E1EE9F24800B2E22B /* MicrophoneTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MicrophoneTask.swift; sourceTree = "<group>"; };
+		7DB7437E1EE9F24800B2E22B /* MicrophoneTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MicrophoneTask.swift; path = ../MicrophoneTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,7 +124,6 @@
 		7DB7432D1EE9DC6200B2E22B = {
 			isa = PBXGroup;
 			children = (
-				7DB7437E1EE9F24800B2E22B /* MicrophoneTask.swift */,
 				7DB743671EE9DCD200B2E22B /* ResearchKit.xcodeproj */,
 				7DB743381EE9DC6200B2E22B /* ResearchKitDemo */,
 				7DB7434D1EE9DC6300B2E22B /* ResearchKitDemoTests */,
@@ -146,6 +145,7 @@
 		7DB743381EE9DC6200B2E22B /* ResearchKitDemo */ = {
 			isa = PBXGroup;
 			children = (
+				7DB7437E1EE9F24800B2E22B /* MicrophoneTask.swift */,
 				7DB7437C1EE9E9C400B2E22B /* SurveyTask.swift */,
 				7DB743391EE9DC6200B2E22B /* AppDelegate.swift */,
 				7DB7433B1EE9DC6200B2E22B /* ViewController.swift */,
